@@ -3,7 +3,7 @@
   "movie": "Street Fighter",
   "requested_date": "20261026",
   "venue_code": "FSCK",
-  "venue_label": "INOX: The Marina Mall, OMR",
-  "url_template": "https://in.bookmyshow.com/movies/chennai/spiderman-brand-new-day/buytickets/ET00502600/{date}",
+  "venue_label": "INOX: South City, Kolkata",
+  "url_template": "https://bookmyshow.com{date}",
   "min_references": 10
 }
