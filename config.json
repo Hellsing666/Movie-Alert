@@ -1,7 +1,7 @@
 {
   "movie": "Street Fighter - (English)",
   "venue_code": "FSCK",
-  "requested_date": "20261026",
+  "requested_date": "20261025",
   "venue_label": "INOX: South City, Kolkata",
   "url_template": "https://in.bookmyshow.com/movies/kolkata/street-fighter/buytickets/ET00522122/{date}?etCodes=ET00522122&language=english&refEventCode=ET00522122",
   "detector": "venue_date"
