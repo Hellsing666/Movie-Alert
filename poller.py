@@ -133,7 +133,7 @@ def fetch(cfg):
     scraper_key = os.environ.get("SCRAPERAPI_KEY")
     if scraper_key:
         api_url = "https://api.scraperapi.com/?" + urllib.parse.urlencode(
-            {"api_key": scraper_key, "country_code": "in", "url": cfg["target_url"]}
+            {"api_key": scraper_key, "country_code": "in", "url": cfg["target_url"], "render": "true"}
         )
         resp = requests.get(api_url, timeout=90)
         resp.raise_for_status()
