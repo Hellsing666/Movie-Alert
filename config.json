@@ -1,8 +1,8 @@
 {
   "detector": "venue_date",
-  "movie": "Street Fighter (IMAX 2D)",
-  "requested_date": "20261025",
-  "venue_code": "FSCK",
-  "venue_label": "INOX: South City, Kolkata",
-  "url_template": "https://in.bookmyshow.com/movies/kolkata/street-fighter/buytickets/ET00481645/{date}"
+  "movie": "Drishyam: The Conclusion",
+  "requested_date": "20261023",
+  "venue_code": "INQM",
+  "venue_label": "INOX: Quest Mall, Kolkata",
+  "url_template": "https://in.bookmyshow.com/movies/kolkata/drishyam-the-conclusion/buytickets/ET00520056/{date}"
 }
