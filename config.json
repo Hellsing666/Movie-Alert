@@ -1,8 +1,8 @@
 {
-  "movie": "Street Fighter - (English)",
+  "detector": "venue_date",
+  "movie": "Street Fighter (IMAX 2D)",
+  "requested_date": "20261026",
   "venue_code": "FSCK",
-  "requested_date": "20261025",
   "venue_label": "INOX: South City, Kolkata",
-  "url_template": "https://in.bookmyshow.com/movies/kolkata/street-fighter/buytickets/ET00522122/{date}?etCodes=ET00522122&language=english&refEventCode=ET00522122",
-  "detector": "venue_date"
+  "url_template": "https://in.bookmyshow.com/movies/kolkata/street-fighter/buytickets/ET00481645/{date}"
 }
